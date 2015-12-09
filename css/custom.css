@@ -1,0 +1,122 @@
+
+/**
+*
+* ABOUT
+* 
+*/
+
+li#about-link.nav-current {
+  border-color: #f66152;  /* NAVIGATION BORDER COLOR */
+}
+
+li#about-link.nav-current h3, li#about-link.nav-current i {
+  color: #f66152; /* NAVIGATION TEXT COLOR */
+}
+
+#about, #about .cat-pages-title h2 {
+  background-color: #f66152; /* BACKGROUND COLOR */
+}
+
+
+
+/** 
+*
+* RESUME
+* 
+*/
+
+li#resume-link.nav-current {
+  border-color: #d7af0d; /* NAVIGATION BORDER COLOR */
+}
+
+li#resume-link.nav-current h3, #resume-link.nav-current i {
+  color: #d7af0d; /* NAVIGATION TEXT COLOR */
+}
+
+#resume, #resume .cat-pages-title h2 {
+  background-color: #d7af0d; /* BACKGROUND COLOR */
+}
+
+.timeline ul li span:before {
+  border-color: #efd66e; /* TIMELINE MARK */
+}
+
+.timeline ul li span:after {
+  background-color: #efd66e; /* TIMELINE MARK */
+}
+
+
+
+/** 
+*
+* PORTFOLIO
+* 
+*/
+
+li#portfolio-link.nav-current {
+  border-color: #3498db; /* NAVIGATION BORDER COLOR */
+}
+
+li#portfolio-link.nav-current h3, #portfolio-link.nav-current i {
+  color: #3498db; /* NAVIGATION TEXT COLOR */
+}
+
+#portfolio, #portfolio .cat-pages-title h2 {
+  background-color: #3498db; /* BACKGROUND COLOR */
+}
+
+.quotes ul > i {
+  background-color: #3498db;  /* QUTOE ICON */
+}
+
+ol.bjqs-markers li a {
+ background-color: #84c0e9; /* QUTOE MARKER */
+}
+ol.bjqs-markers li.active-marker { 
+ border-color: #84c0e9; /* QUTOE MARKER */
+}
+
+
+
+/** 
+*
+* BLOG
+* 
+*/
+
+li#blog-link.nav-current {
+  border-color: #2cc16b; /* NAVIGATION BORDER COLOR */
+}
+
+li#blog-link.nav-current h3, #blog-link.nav-current i {
+  color: #2cc16b; /* NAVIGATION TEXT COLOR */
+}
+
+#blog, #blog .cat-pages-title h2 {
+  background-color: #2cc16b; /* BACKGROUND COLOR */
+}
+
+.ajax-popup {
+  background-color: #2cc16b; /* SINGLE POST BACKGROUND COLOR */
+}
+
+
+
+
+/** 
+*
+* CONTACT
+* 
+*/
+
+li#contact-link.nav-current {
+  border-color: #424242; /* NAVIGATION BORDER COLOR */
+}
+
+li#contact-link.nav-current h3, #contact-link.nav-current i {
+  color: #424242; /* NAVIGATION TEXT COLOR */
+}
+
+#contact, #contact .cat-pages-title h2 {
+  background-color: #424242; /* BACKGROUND COLOR */
+}
